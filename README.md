@@ -94,7 +94,8 @@
 
 ### https://i.blackhat.com/USA-19/Wednesday/us-19-Nickels-MITRE-ATTACK-The-Play-At-Home-Edition.pdf
 
-### Example
+### Exemplo
+![image](https://user-images.githubusercontent.com/34966120/122246609-1310fd80-ce9d-11eb-9bc5-4b6fdfd63310.png)
 
 ### Example 2 - Windows TTP
 
